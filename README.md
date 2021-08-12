@@ -1,2 +1,2 @@
 # ppmtool
-This is personal project managment tool
+This is Personal Project Managment Tool which will be used to manage my own projects
